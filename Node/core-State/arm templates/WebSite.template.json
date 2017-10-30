@@ -89,6 +89,7 @@
             "displayName": "AppSettings"
           },
           "properties": {
+            "WEBSITE_NODE_DEFAULT_VERSION": "6.9.1",
             "MICROSOFT_APP_ID": "__MICROSOFT_APP_ID__",
             "MICROSOFT_APP_PASSWORD": "__MICROSOFT_APP_PASSWORD__"
           }
